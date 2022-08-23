@@ -4,4 +4,6 @@ logs
 npm-debug.log*
 node_modules
 .idea
+
 yarn.lock
+pnpm-lock.yaml
